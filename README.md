@@ -67,13 +67,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
 
 
-- Until March 2023, I have been using GitLab, however I made the choice to switch to GitHub, since it's a more popular platform :)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcraccer&label=Profile%20views&color=0e75b6&style=flat" alt="davidcraccer" /> </p>
+<p> Until March 2023, I have been using GitLab, however I made the choice to switch to GitHub, since it's a more popular platform :) </p>
 
-- 🌱 I’m currently learning **New frameworks and Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/davidcraccer](https://github.com/davidcraccer)
-
-- 📫 How to reach me **dsvoboda25@gmail.com**
-
-- ⚡ Fun fact **When I was younger, I used to play chess competitively**
