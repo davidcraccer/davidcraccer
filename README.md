@@ -63,6 +63,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <h3 align="left"  style="clear:both;" >My GitStat:</h3>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
