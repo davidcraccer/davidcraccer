@@ -68,6 +68,8 @@
 <h3 align="left"  style="clear:both;" >My GitStat:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
 
+<p>
+Until March 2023, I have been using GitLab, however I made the choice to switch to GitHub, since it's a more popular platform :)
+</p>
 
-<p> Until March 2023, I have been using GitLab, however I made the choice to switch to GitHub, since it's a more popular platform :) </p>
 
