@@ -55,8 +55,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcraccer&show_icons=true&locale=en&layout=compact" alt="davidcraccer"  height="195"/></p>
 
-<div align="right">
-<h3 align="left">My GitStats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
-</div>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
+
 
