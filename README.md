@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Svoboda</h1>
 <h3 align="center">A passionate frontend developer from Berlin</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -19,7 +20,6 @@
 <a href="https://www.linkedin.com/in/david-svoboda-9a57a4268/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-svoboda-9a57a4268/" height="30" width="40" /></a>
 </p>
 
-<br>
 <br>
 <br>
 
@@ -55,6 +55,7 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcraccer&show_icons=true&locale=en&layout=compact" alt="davidcraccer"  height="195"/></p>
 
+<h3 align="right">My GitStats:</h3>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
 
 
