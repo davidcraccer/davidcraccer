@@ -55,6 +55,9 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcraccer&show_icons=true&locale=en&layout=compact" alt="davidcraccer"  height="195"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
+<br>
+<h3 align="left">My GitStat:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
 
+- Until March 2023, I have been using GitLab, however I made the choice to switch to GitHub, since it's a more popular platform :)
 
