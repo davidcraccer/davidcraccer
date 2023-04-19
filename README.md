@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidcraccer" alt="davidcraccer" /></a> </p>
 
-- 🔭 I’m currently working on **building a weather web app**
-
 - 🌱 I’m currently learning **New frameworks and Backend Development**
-
-- 🤝 I’m looking for **Job Experience**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidcraccer](https://github.com/davidcraccer)
 
