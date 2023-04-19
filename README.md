@@ -19,6 +19,10 @@
 <a href="https://www.linkedin.com/in/david-svoboda-9a57a4268/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-svoboda-9a57a4268/" height="30" width="40" /></a>
 </p>
 
+<br>
+<br>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
       
@@ -49,10 +53,7 @@
   </a> 
 
 </p>
-<br>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcraccer&show_icons=true&locale=en&layout=compact" alt="davidcraccer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcraccer&show_icons=true&locale=en&layout=compact" alt="davidcraccer"  height="195"/></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=davidcraccer&show_icons=true&locale=en" alt="davidcraccer" /></p>
 
