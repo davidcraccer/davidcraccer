@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Svoboda</h1>
 <h3 align="center">A passionate frontend developer from Berlin</h3>
 <br>
-<img style="margin-left: 2em;" align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
