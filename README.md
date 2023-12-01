@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcraccer&label=Profile%20views&color=0e75b6&style=flat" alt="davidcraccer" /> </p>
 
+- 😼 I’m currently working for **Fraunhofer Institut**
+  
 - 🌱 I’m currently learning **New frameworks and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidcraccer](https://github.com/davidcraccer)
