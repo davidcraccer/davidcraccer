@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidcraccer](https://github.com/davidcraccer)
 
-- 📫 How to reach me **dsvoboda25@gmail.com**
+- 📫 How to reach me **david.svoboda@fokus.fraunhofer.de**
 
 - ⚡ Fun fact **When I was younger, I used to play chess competitively**
 
@@ -137,7 +137,8 @@
 <br>
 <br>
 
-<p style="margin-bottom: 2em; line-height: 1em;">Until March 2023, I have been using GitLab, however I made the choice to switch to GitHub, since it's a more popular platform. Now I'm using GitLab for my job at Fraunhofer Institut :)</p>
+</p>
+<p style="margin-bottom: 2em; line-height: 1em;">Now I'm using <a href="https://gitlab.fokus.fraunhofer.de/david.svoboda" target="_blank">GitLab</a> (private) for my job at Fraunhofer Institut :)</p>
 
 
 
