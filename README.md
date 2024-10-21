@@ -140,3 +140,5 @@
 </p>
 <p style="margin-bottom: 2em; line-height: 1em;">Now I'm using <a href="https://gitlab.fokus.fraunhofer.de/david.svoboda" target="_blank">GitLab</a> (private) for my job at Fraunhofer Institut :)</p>
 
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="max-width: 100%; height: auto;">
