@@ -7,11 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcraccer&label=Profile%20views&color=0e75b6&style=flat"  alt="davidcraccer" /> </p>
 
-
-## 👋 Hey there, I'm David
-
 💼 Currently working at **Fraunhofer Institut**  
-💻 Most fluent in **TypeScript**, but I speak **English, German, Spanish, and Vietnamese**   too
+💻 Most fluent in **TypeScript**, but I speak **English, German, Spanish, and Vietnamese** too
 
 ---
 
@@ -26,7 +23,8 @@
 
 ### 🧩 Bonus Bits
 
-- 🌱 Side-questing in: Billiard and Kicker
+- 🎱 Side-questing in: Billiards and Kicker  
+- 🧾 Co-author of this research paper: [“Toward A Trustworthy AI Assistant for Crisis Management” (ISCRAM 2024)](https://ojs.iscram.org/index.php/Proceedings/article/view/29)  
 - 💡 Motto: *"Build cool stuff. Help people. Repeat."*
 
 ---
