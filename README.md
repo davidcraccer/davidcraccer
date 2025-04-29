@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Svoboda</h1>
-<h3 align="center">A passionate frontend developer from Berlin</h3>
+<h3 align="center">A passionate Shrek lover from Berlin</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://scontent-dus1-1.cdninstagram.com/v/t51.2885-19/485050448_1753651371882158_8739081309942851948_n.jpg?_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHWAGEumZdnVzsZcl7hSqdshyhGgc2YZsVi7_h_msUKmMjdMKu7gtrJo-ypg4EaDu8&_nc_ohc=MFgj5-4Gx7MQ7kNvwG36Acr&_nc_gid=_EzM3P-yS414gK9wmqe9cg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfE7ES8lWltFoPxwQt3N5hqUGnOvTRGw0etsqUwzBzrevA&oe=6816E16C&_nc_sid=7d3ac5">
 
@@ -7,15 +7,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcraccer&label=Profile%20views&color=0e75b6&style=flat"  alt="davidcraccer" /> </p>
 
-- 😼 I’m currently working for **Fraunhofer Institut**
-  
-- 🌱 I’m currently learning **New frameworks and Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davidcraccer](https://github.com/davidcraccer)
+## 👋 Hey there, I'm David
 
-- 📫 How to reach me **david.svoboda@fokus.fraunhofer.de**
+💼 Currently working at **Fraunhofer Institut**  
+💻 Most fluent in **TypeScript**, but I speak **English, German, Spanish, and Vietnamese**   too
 
-- ⚡ Fun fact **When I was younger, I used to play chess competitively**
+---
+
+### 🚀 What I'm About
+
+- 🧑‍💻 All my code lives right here → [github.com/davidcraccer](https://github.com/davidcraccer)
+- 📬 Reach out anytime → **david.svoboda@fokus.fraunhofer.de**
+- ♟️ Fun fact: I used to play chess competitively... now I mostly strategize in code.
+- 🌍 Dream: Build a successful business → use it to create **charitable schools** where they're most needed
+
+---
+
+### 🧩 Bonus Bits
+
+- 🌱 Side-questing in: Billiard and Kicker
+- 💡 Motto: *"Build cool stuff. Help people. Repeat."*
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
