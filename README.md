@@ -24,7 +24,7 @@
 ### 🧩 Bonus Bits
 
 - 🎱 Side-questing in: Billiards and Kicker  
-- 🧾 Co-author of: [*Perceiving and Behaving in a Crisis: Developing a Multi-Functional Crisis Information Platform for Psychosocial Situations (CIP-PS)*](https://ojs.iscram.org/index.php/Proceedings/article/view/29) – ISCRAM 2024  
+- 🧾 Co-author of: [*Perceiving and Behaving in a Crisis*](https://ojs.iscram.org/index.php/Proceedings/article/view/29)
 - 💡 Motto: *"Build cool stuff. Help people. Repeat."*
 
 ---
