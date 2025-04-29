@@ -16,7 +16,7 @@
 
 - 🧑‍💻 All my code lives right here → [github.com/davidcraccer](https://github.com/davidcraccer)
 - 📬 Reach out anytime → **david.svoboda@fokus.fraunhofer.de**
-- ♟️ Fun fact: I used to play chess competitively... now I mostly strategize in code.
+- ♟️ Fun fact: I used to play chess competitively... now I'm a League Addict...
 - 🌍 Dream: Build a successful business → use it to create **charitable schools** where they're most needed
 
 ---
@@ -29,13 +29,10 @@
 
 ---
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/david-svoboda-9a57a4268/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-svoboda-9a57a4268/" height="30" width="40" /></a>
 </p>
-
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
