@@ -16,7 +16,7 @@
 
 - 🧑‍💻 All my code lives right here → [github.com/davidcraccer](https://github.com/davidcraccer)
 - 📬 Reach out anytime → **david.svoboda@fokus.fraunhofer.de**
-- ♟️ Fun fact: I used to play chess competitively... now I'm a League Addict...
+- ♟️ Fun fact: I played competitive chess growing up... now I'm a League of Legends Addict...
 - 🌍 Dream: Build a successful business → use it to create **charitable schools** where they're most needed
 
 ---
