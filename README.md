@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Svoboda</h1>
 <h3 align="center">Based in Berlin</h3>
 <br>
-<img align="right" width="400" src="./snowboard 2.JPG">
+<img align="right" width="400" src="./snowboard 2.JPG" style="border-radius: 12px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcraccer&label=Profile%20views&color=0e75b6&style=flat"  alt="davidcraccer" /> </p>
 
